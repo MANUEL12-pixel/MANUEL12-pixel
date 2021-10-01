@@ -24,10 +24,10 @@ And more...
 
 ## Find me at:
 [![Instagram](https://img.shields.io/badge/Instagram-@manuel_mayo344-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/manuel_mayo344)
-[![Facebook](https://img.shields.io/badge/Facebook-@ManuelMayo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/Manuel_Mayo)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Mayo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-mayo)
-[![Web](https://img.shields.io/badge/My_Website-Manuel12pixel.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+[![Facebook](https://img.shields.io/badge/Facebook-@ManuelMayo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100010814621870)
+</br
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Mayo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-mayo-698308204/)
+[![Web](https://img.shields.io/badge/My_Website-Manuel12pixel.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](M
 ## Contact me:
 [![Email](https://img.shields.io/badge/manuelmayo630@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 
